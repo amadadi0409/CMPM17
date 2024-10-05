@@ -1,0 +1,24 @@
+body{
+    font-family: Times New 'Times New Roman', Times, serif;
+    background-color: lightskyblue;
+}
+header{
+    background-color: #35424a;
+    font-size: 45px;
+    color:aquamarine;
+    padding: 45px;
+    text-align:center;
+}
+.name {
+    font-family: Times New 'Times New Roman', Times, serif;
+    font-size: 40px; 
+    font-weight: bold; 
+}
+
+.major, .year, .special-interests {
+    font-size: 20px;
+}
+.hobbies {
+    font-family: Times New 'Times New Roman', Times, serif; 
+    font-size: 18px;
+}
